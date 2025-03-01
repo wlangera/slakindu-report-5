@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: "11 jaar slakken inventarisatie in de Vlaamse Duinen en Kustpolders"
+authors:
+- given-names: Ward
+  family-names: Langeraert
+  affiliation: Research Institute for Nature and Forest (INBO)
+  orcid: 0000-0002-5900-8109
+keywords:
+- weekdieren
+- slakken
+- inventarisatie
+- duinen
+- West-Vlaanderen
+- polders
+- kust
+contact:
+- given-names: Ward
+  family-names: Langeraert
+  affiliation: Research Institute for Nature and Forest (INBO)
+  orcid: 0000-0002-5900-8109
+doi: ~
+license: CC-BY-4.0
+repository-code: https://github.com/wlangera/slakindu-report-5/
+type: software
+abstract: "Replace this with a short description of the project.\nIt becomes the abstract
+  of the project in the citation information.\nAnd the project description at https://zenodo.org"

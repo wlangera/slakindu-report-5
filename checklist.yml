@@ -16,3 +16,6 @@ spelling:
   ignore:
   - .github
   - LICENSE.md
+  other:
+    en-GB:
+      - README.md

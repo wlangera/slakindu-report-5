@@ -1,0 +1,41 @@
+{
+  "access_right": "open",
+  "title": "11 jaar slakken inventarisatie in de Vlaamse Duinen en Kustpolders",
+  "description": "<p>Replace this with a short description of the project. It becomes the abstract of the project in the citation information. And the project description at https://zenodo.org<\/p>",
+  "keywords": [
+    "weekdieren",
+    "slakken",
+    "inventarisatie",
+    "duinen",
+    "West-Vlaanderen",
+    "polders",
+    "kust"
+  ],
+  "upload_type": "software",
+  "license": "CC-BY-4.0",
+  "language": "nld",
+  "contributors": [
+    {
+      "name": "Langeraert, Ward",
+      "affiliation": "Research Institute for Nature and Forest (INBO)",
+      "orcid": "0000-0002-5900-8109",
+      "type": "contactperson"
+    },
+    {
+      "name": "Research Institute for Nature and Forest (INBO)",
+      "type": "rightsholder"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Langeraert, Ward",
+      "affiliation": "Research Institute for Nature and Forest (INBO)",
+      "orcid": "0000-0002-5900-8109"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "inbo"
+    }
+  ]
+}
