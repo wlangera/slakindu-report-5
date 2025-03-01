@@ -17,6 +17,8 @@ Research Institute for Nature and Forest (INBO)[^cph][^fnd]
 
 **keywords**: molluscs; snails; inventory; dunes; Flanders; polders; coast
 
+<!-- community: inbo -->
+
 <!-- description: start -->
 This project presents the analyses (in English) and a summary report (in Dutch) on 11 years of inventorying land and freshwater molluscs along the Belgian coast.
 <!-- description: end -->

@@ -1,15 +1,15 @@
 {
   "access_right": "open",
-  "title": "11 jaar slakken inventarisatie in de Vlaamse Duinen en Kustpolders",
-  "description": "<p>Replace this with a short description of the project. It becomes the abstract of the project in the citation information. And the project description at https://zenodo.org<\/p>",
+  "title": "11 Years of Research on Land and Freshwater Molluscs Along the Belgian Coast",
+  "description": "<p>This project presents the analyses (in English) and a summary report (in Dutch) on 11 years of inventorying land and freshwater molluscs along the Belgian coast.<\/p>",
   "keywords": [
-    "weekdieren",
-    "slakken",
-    "inventarisatie",
-    "duinen",
-    "West-Vlaanderen",
+    "molluscs",
+    "snails",
+    "inventory",
+    "dunes",
+    "Flanders",
     "polders",
-    "kust"
+    "coast"
   ],
   "upload_type": "software",
   "license": "CC-BY-4.0",
