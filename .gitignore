@@ -17,6 +17,7 @@
 *.xls*
 *_files
 docs
+data
 libs
 output
 renv/library
